@@ -1,9 +1,16 @@
 import express from 'express';
-import { getJobs, getJobById } from '../controllers/jobController.js';
+import Job from '../models/Job.js';
 
 const router = express.Router();
 
-router.get('/jobs', getJobs);          // GET all jobs with optional filters
-router.get('/jobs/:id', getJobById);    // GET job by ID
+// Endpoint to get all jobs
+router.get('/jobs', async (req, res) => {
+  try {
+    const jobs = await Job.find();
+    res.status(200).json(jobs);
+  } catch (error) {
+    res.status(500).json({ error: "Failed to fetch jobs" });
+  }
+});
 
 export default router;

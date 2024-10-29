@@ -1,0 +1,416 @@
+[
+  {
+    "jobTitle": "Software Engineer",
+    "companyName": "Google",
+    "location": "New York, USA",
+    "jobType": "Full Time",
+    "experience": "Entry Level",
+    "description": "Develop scalable applications using Java and Python in a team-driven environment at Google.",
+    "minimumQualifications": "Bachelor’s degree in Computer Science or equivalent. Knowledge of Java, Python, and software development best practices."
+  },
+  {
+    "jobTitle": "Product Manager",
+    "companyName": "Amazon",
+    "location": "Seattle, USA",
+    "jobType": "Full Time",
+    "experience": "Mid",
+    "description": "Oversee product lifecycle and collaborate across teams to drive success for Amazon’s products.",
+    "minimumQualifications": "3+ years of experience in product management. Strong communication skills and understanding of Agile."
+  },
+  {
+    "jobTitle": "Data Analyst Intern",
+    "companyName": "Facebook",
+    "location": "Menlo Park, USA",
+    "jobType": "Intern",
+    "experience": "Intern",
+    "description": "Support data collection and analysis efforts, generating insights using Python and SQL.",
+    "minimumQualifications": "Currently pursuing a degree in Data Science or related field. Familiarity with SQL and data visualization."
+  },
+  {
+    "jobTitle": "Senior Software Developer",
+    "companyName": "Microsoft",
+    "location": "Redmond, USA",
+    "jobType": "Full Time",
+    "experience": "Senior",
+    "description": "Lead a development team to create secure and scalable applications with .NET and C#.",
+    "minimumQualifications": "5+ years of experience in software development. Proficient in C# and .NET frameworks."
+  },
+  {
+    "jobTitle": "UI/UX Designer",
+    "companyName": "Apple",
+    "location": "San Francisco, USA",
+    "jobType": "Part Time",
+    "experience": "Entry Level",
+    "description": "Design intuitive user interfaces and work with developers to implement designs.",
+    "minimumQualifications": "Bachelor’s degree in Design or related field. Basic proficiency in Sketch, Figma, or Adobe XD."
+  },
+  {
+    "jobTitle": "Technical Support Specialist",
+    "companyName": "Netflix",
+    "location": "Los Angeles, USA",
+    "jobType": "Full Time",
+    "experience": "Entry Level",
+    "description": "Provide technical support for Netflix products, assisting customers with troubleshooting.",
+    "minimumQualifications": "Strong communication skills. Basic understanding of software troubleshooting and support tools."
+  },
+  {
+    "jobTitle": "IT Project Manager",
+    "companyName": "Tesla",
+    "location": "Palo Alto, USA",
+    "jobType": "Full Time",
+    "experience": "Mid",
+    "description": "Coordinate IT projects from planning to execution, ensuring project timelines and budgets.",
+    "minimumQualifications": "Bachelor’s degree in IT or related field. 3+ years of project management experience."
+  },
+  {
+    "jobTitle": "Cloud Engineer",
+    "companyName": "Amazon",
+    "location": "London, UK",
+    "jobType": "Full Time",
+    "experience": "Mid",
+    "description": "Manage and optimize cloud infrastructure on AWS, ensuring security and scalability.",
+    "minimumQualifications": "3+ years of experience with cloud platforms. Knowledge of AWS and cloud security."
+  },
+  {
+    "jobTitle": "Software Development Intern",
+    "companyName": "Google",
+    "location": "London, UK",
+    "jobType": "Intern",
+    "experience": "Intern",
+    "description": "Assist in coding and testing Google applications, gaining hands-on experience in web development.",
+    "minimumQualifications": "Pursuing a degree in Computer Science or equivalent. Basic knowledge of JavaScript, HTML, and CSS."
+  },
+  {
+    "jobTitle": "Senior Data Scientist",
+    "companyName": "Meta",
+    "location": "Cambridge, UK",
+    "jobType": "Full Time",
+    "experience": "Senior",
+    "description": "Lead data analysis projects, building predictive models with Python and ML algorithms.",
+    "minimumQualifications": "5+ years of experience in data science. Proficiency in Python, machine learning, and big data tools."
+  },
+  {
+    "jobTitle": "Machine Learning Engineer",
+    "companyName": "DeepMind",
+    "location": "London, UK",
+    "jobType": "Full Time",
+    "experience": "Mid",
+    "description": "Develop machine learning models to support DeepMind’s research in AI.",
+    "minimumQualifications": "3+ years of experience in machine learning. Proficient in TensorFlow and Python."
+  },
+  {
+    "jobTitle": "Cybersecurity Analyst",
+    "companyName": "Microsoft",
+    "location": "Bangalore, India",
+    "jobType": "Full Time",
+    "experience": "Entry Level",
+    "description": "Monitor and analyze security incidents, ensuring system protection and threat management.",
+    "minimumQualifications": "Bachelor’s degree in Cybersecurity or related field. Familiarity with network security tools."
+  },
+  {
+    "jobTitle": "Director of Engineering",
+    "companyName": "Meta",
+    "location": "San Francisco, USA",
+    "jobType": "Full Time",
+    "experience": "Director",
+    "description": "Oversee engineering teams, define technical strategy, and drive innovation for Meta products.",
+    "minimumQualifications": "10+ years of experience in software engineering. Strong leadership and strategic skills."
+  },
+  {
+    "jobTitle": "Frontend Developer",
+    "companyName": "YouTube",
+    "location": "Dublin, Ireland",
+    "jobType": "Part Time",
+    "experience": "Entry Level",
+    "description": "Build user interfaces for YouTube’s web platform using HTML, CSS, and JavaScript.",
+    "minimumQualifications": "Basic understanding of front-end technologies. Knowledge of React is a plus."
+  },
+  {
+    "jobTitle": "Quality Assurance Tester",
+    "companyName": "Netflix",
+    "location": "Los Gatos, USA",
+    "jobType": "Full Time",
+    "experience": "Entry Level",
+    "description": "Test software applications to meet Netflix’s quality standards and report bugs.",
+    "minimumQualifications": "Detail-oriented. Basic knowledge of testing and QA processes."
+  },
+  {
+    "jobTitle": "Business Analyst",
+    "companyName": "Amazon",
+    "location": "Hyderabad, India",
+    "jobType": "Full Time",
+    "experience": "Mid",
+    "description": "Analyze business processes and provide insights to enhance Amazon’s operational efficiency.",
+    "minimumQualifications": "Bachelor’s degree in Business or related field. 3+ years of experience in analysis."
+  },
+  {
+    "jobTitle": "Mobile App Developer",
+    "companyName": "Uber",
+    "location": "San Francisco, USA",
+    "jobType": "Full Time",
+    "experience": "Mid",
+    "description": "Design and develop mobile applications for iOS and Android platforms.",
+    "minimumQualifications": "2+ years of experience in mobile development. Proficient in Swift and Kotlin."
+  },
+  {
+    "jobTitle": "Database Administrator",
+    "companyName": "Microsoft",
+    "location": "Hyderabad, India",
+    "jobType": "Full Time",
+    "experience": "Mid",
+    "description": "Manage and optimize databases, ensuring data security and integrity.",
+    "minimumQualifications": "3+ years of experience in database management. Knowledge of SQL and data structures."
+  },
+  {
+    "jobTitle": "DevOps Engineer",
+    "companyName": "Apple",
+    "location": "Austin, USA",
+    "jobType": "Full Time",
+    "experience": "Senior",
+    "description": "Streamline deployment processes, implementing CI/CD and managing containerized infrastructure.",
+    "minimumQualifications": "5+ years of experience in DevOps. Proficient in Docker, Kubernetes, and CI/CD pipelines."
+  },
+  {
+    "jobTitle": "Customer Success Manager",
+    "companyName": "Facebook",
+    "location": "New Delhi, India",
+    "jobType": "Full Time",
+    "experience": "Entry Level",
+    "description": "Engage with clients, ensuring customer satisfaction and providing technical support.",
+    "minimumQualifications": "Good communication skills. Familiarity with CRM systems."
+  },
+  {
+    "jobTitle": "Backend Developer",
+    "companyName": "Twitter",
+    "location": "San Francisco, USA",
+    "jobType": "Full Time",
+    "experience": "Mid",
+    "description": "Develop robust backend services using Node.js and MongoDB.",
+    "minimumQualifications": "3+ years of backend development experience. Knowledge of Node.js and database systems."
+  },
+  {
+    "jobTitle": "HR Specialist",
+    "companyName": "Microsoft",
+    "location": "London, UK",
+    "jobType": "Full Time",
+    "experience": "Mid",
+    "description": "Manage recruitment, employee relations, and HR compliance for Microsoft’s UK operations.",
+    "minimumQualifications": "Bachelor’s degree in HR or related field. 3+ years of experience in HR roles."
+  },
+  {
+    "jobTitle": "Sales Manager",
+    "companyName": "Amazon",
+    "location": "Seattle, USA",
+    "jobType": "Full Time",
+    "experience": "Senior",
+    "description": "Lead a sales team, developing strategies to drive revenue growth.",
+    "minimumQualifications": "5+ years in sales management. Strong communication and leadership skills."
+  },
+  {
+    "jobTitle": "Full Stack Developer",
+    "companyName": "Netflix",
+    "location": "Los Gatos, USA",
+    "jobType": "Full Time",
+    "experience": "Mid",
+    "description": "Develop and maintain Netflix's web applications with React and Node.js.",
+    "minimumQualifications": "3+ years in full stack development. Proficient in JavaScript, React, and Node.js."
+  },
+  {
+    "jobTitle": "Social Media Manager",
+    "companyName": "Meta",
+    "location": "London, UK",
+    "jobType": "Part Time",
+    "experience": "Entry Level",
+    "description": "Create content and engage with users to build Meta’s online presence.",
+    "minimumQualifications": "Strong understanding of social media platforms. Creative and strategic mindset."
+  },
+  {
+    "jobTitle": "AI Research Scientist",
+    "companyName": "OpenAI",
+    "location": "San Francisco, USA",
+    "jobType": "Full Time",
+    "experience": "Senior",
+    "description": "Conduct research and develop cutting-edge AI models for various applications.",
+    "minimumQualifications": "PhD in AI or related field. Proficient in deep learning and Python."
+  },
+  {
+    "jobTitle": "Software Development Engineer",
+    "companyName": "Google",
+    "location": "Mountain View, CA, USA",
+    "jobType": "Full Time",
+    "experience": "Entry Level",
+    "description": "Develop and maintain scalable applications, ensuring code quality and system efficiency.",
+    "minimumQualifications": "Bachelor’s degree in Computer Science or relevant field. 1+ years of experience in Java, Python, or C++."
+  },
+  {
+    "jobTitle": "Data Scientist",
+    "companyName": "Facebook",
+    "location": "Menlo Park, CA, USA",
+    "jobType": "Full Time",
+    "experience": "Mid",
+    "description": "Analyze and interpret complex data sets to drive informed business decisions.",
+    "minimumQualifications": "Master’s degree in Data Science or Statistics. 3+ years of experience with data modeling and SQL."
+  },
+  {
+    "jobTitle": "Cloud Solutions Architect",
+    "companyName": "Amazon Web Services",
+    "location": "Seattle, WA, USA",
+    "jobType": "Full Time",
+    "experience": "Senior",
+    "description": "Design and implement cloud architectures for high-demand applications.",
+    "minimumQualifications": "Bachelor’s degree in Computer Science. 5+ years in cloud technologies like AWS, Azure, or Google Cloud."
+  },
+  {
+    "jobTitle": "Product Manager",
+    "companyName": "Microsoft",
+    "location": "Redmond, WA, USA",
+    "jobType": "Full Time",
+    "experience": "Mid",
+    "description": "Define product vision and work closely with engineering teams to bring ideas to life.",
+    "minimumQualifications": "Bachelor’s degree in Business or related field. 3+ years in product management, with Agile methodology experience."
+  },
+  {
+    "jobTitle": "Front-End Developer",
+    "companyName": "Apple",
+    "location": "Cupertino, CA, USA",
+    "jobType": "Full Time",
+    "experience": "Entry Level",
+    "description": "Implement intuitive user interfaces using modern front-end technologies.",
+    "minimumQualifications": "Bachelor’s in Computer Science. Proficiency in HTML, CSS, and JavaScript."
+  },
+  {
+    "jobTitle": "Data Analyst",
+    "companyName": "Netflix",
+    "location": "Los Gatos, CA, USA",
+    "jobType": "Full Time",
+    "experience": "Entry Level",
+    "description": "Analyze user data to improve content recommendations and user experience.",
+    "minimumQualifications": "Bachelor’s degree in Statistics or related field. Familiarity with SQL and Python."
+  },
+  {
+    "jobTitle": "Machine Learning Engineer",
+    "companyName": "IBM",
+    "location": "New York, NY, USA",
+    "jobType": "Full Time",
+    "experience": "Senior",
+    "description": "Develop and optimize machine learning models for various applications.",
+    "minimumQualifications": "Master’s degree in Computer Science. 5+ years in machine learning and TensorFlow experience."
+  },
+  {
+    "jobTitle": "Backend Developer",
+    "companyName": "Spotify",
+    "location": "Stockholm, Sweden",
+    "jobType": "Full Time",
+    "experience": "Mid",
+    "description": "Design and maintain the server-side logic and APIs for our music platform.",
+    "minimumQualifications": "Bachelor’s in Computer Science. 3+ years in Java and Node.js."
+  },
+  {
+    "jobTitle": "UX Designer",
+    "companyName": "Adobe",
+    "location": "San Jose, CA, USA",
+    "jobType": "Full Time",
+    "experience": "Mid",
+    "description": "Design seamless user experiences across our suite of creative applications.",
+    "minimumQualifications": "Bachelor’s degree in Design. 3+ years in UX design with a strong portfolio."
+  },
+  {
+    "jobTitle": "System Administrator",
+    "companyName": "Oracle",
+    "location": "Austin, TX, USA",
+    "jobType": "Full Time",
+    "experience": "Entry Level",
+    "description": "Maintain and support the company’s IT infrastructure and server health.",
+    "minimumQualifications": "Bachelor’s in Information Technology. 1+ years in server maintenance and Linux OS."
+  },
+  {
+    "jobTitle": "Full-Stack Developer",
+    "companyName": "LinkedIn",
+    "location": "Sunnyvale, CA, USA",
+    "jobType": "Full Time",
+    "experience": "Mid",
+    "description": "Develop end-to-end solutions across front-end and back-end technologies.",
+    "minimumQualifications": "Bachelor’s in Computer Science. 3+ years in MERN stack (MongoDB, Express, React, Node.js)."
+  },
+  {
+    "jobTitle": "Business Analyst",
+    "companyName": "Accenture",
+    "location": "London, UK",
+    "jobType": "Full Time",
+    "experience": "Entry Level",
+    "description": "Conduct business analysis to support data-driven decision-making.",
+    "minimumQualifications": "Bachelor’s in Business Administration. Experience with data visualization tools."
+  },
+  {
+    "jobTitle": "Software Engineer",
+    "companyName": "Meta",
+    "location": "Dublin, Ireland",
+    "jobType": "Full Time",
+    "experience": "Mid",
+    "description": "Work on developing backend services for social media applications.",
+    "minimumQualifications": "Bachelor’s in Computer Science. 3+ years in backend technologies like Python and Java."
+  },
+  {
+    "jobTitle": "Quality Assurance Engineer",
+    "companyName": "SAP",
+    "location": "Berlin, Germany",
+    "jobType": "Full Time",
+    "experience": "Entry Level",
+    "description": "Test and ensure software quality for enterprise applications.",
+    "minimumQualifications": "Bachelor’s in Computer Science. Knowledge of automated testing frameworks."
+  },
+  {
+    "jobTitle": "Network Engineer",
+    "companyName": "Cisco",
+    "location": "San Jose, CA, USA",
+    "jobType": "Full Time",
+    "experience": "Senior",
+    "description": "Design, implement, and support network systems for high availability.",
+    "minimumQualifications": "Bachelor’s degree in Network Engineering. 5+ years in network infrastructure and security."
+  },
+  {
+    "jobTitle": "Data Engineer",
+    "companyName": "Tesla",
+    "location": "Palo Alto, CA, USA",
+    "jobType": "Full Time",
+    "experience": "Mid",
+    "description": "Build and optimize data pipelines for vehicle and user data analysis.",
+    "minimumQualifications": "Bachelor’s degree in Data Engineering. 3+ years in Python, SQL, and big data tools."
+  },
+  {
+    "jobTitle": "Mobile App Developer",
+    "companyName": "Uber",
+    "location": "San Francisco, CA, USA",
+    "jobType": "Full Time",
+    "experience": "Mid",
+    "description": "Develop mobile applications for our ride-sharing platform.",
+    "minimumQualifications": "Bachelor’s degree in Computer Science. 3+ years in mobile development using Swift and Kotlin."
+  },
+  {
+    "jobTitle": "Information Security Analyst",
+    "companyName": "JP Morgan Chase",
+    "location": "Mumbai, India",
+    "jobType": "Full Time",
+    "experience": "Entry Level",
+    "description": "Monitor and protect the company’s information assets from security threats.",
+    "minimumQualifications": "Bachelor’s in Cybersecurity. Knowledge of threat analysis and incident response."
+  },
+  {
+    "jobTitle": "DevOps Engineer",
+    "companyName": "Dropbox",
+    "location": "Austin, TX, USA",
+    "jobType": "Full Time",
+    "experience": "Senior",
+    "description": "Manage and streamline deployment processes to enhance system performance.",
+    "minimumQualifications": "Bachelor’s degree in Information Technology. 5+ years in CI/CD and Kubernetes."
+  },
+  {
+    "jobTitle": "Content Strategist",
+    "companyName": "Pinterest",
+    "location": "New York, NY, USA",
+    "jobType": "Full Time",
+    "experience": "Entry Level",
+    "description": "Plan and create content to engage and grow user base.",
+    "minimumQualifications": "Bachelor’s degree in Marketing. Experience with content creation and strategy."
+  }
+]

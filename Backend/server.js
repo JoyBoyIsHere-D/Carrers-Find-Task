@@ -1,4 +1,5 @@
 import express from 'express';
+import mongoose from 'mongoose';
 import cors from 'cors';
 import connectDB from './config/db.js';
 import jobRoutes from './routes/jobRoutes.js';
@@ -11,6 +12,11 @@ connectDB();
 
 app.use(cors());
 app.use(express.json());
+
+mongoose.connect(process.env.MONGODB_URI, {
+    useNewUrlParser: true,
+    useUnifiedTopology: true,
+  });
 
 app.use('/api', jobRoutes);
 
