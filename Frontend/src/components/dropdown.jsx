@@ -139,7 +139,7 @@ function Dropdown({ label, options }) {
                             class="h-4 w-4 text-blue-600 border-gray-300 rounded cursor-pointer mr-2 "
                         />
                         <label for="early" class="text-gray-700 cursor-pointer select-none">  
-                             Early
+                             Entry Level
                         </label></div>
                         <div className='ml-2 flex items-center m-1'><input
                             type="checkbox"
@@ -159,7 +159,7 @@ function Dropdown({ label, options }) {
                             class="h-4 w-4 text-blue-600 border-gray-300 rounded cursor-pointer mr-2 "
                         />
                         <label for="advanced" class="text-gray-700 cursor-pointer select-none">  
-                             Advanced
+                             Senior
                         </label></div>
                         <div className='ml-2 flex items-center m-1'><input
                             type="checkbox"
