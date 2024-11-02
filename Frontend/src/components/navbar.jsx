@@ -20,25 +20,8 @@ function Navbar() {
         </div>
       </div>
 
-      {/* Mobile Navigation Links */}
-      {isOpen && (
-        <div className="md:hidden">
-          <div className="px-2 pt-2 pb-3 space-y-1 sm:px-3">
-            <Link to="/home" className="block text-gray-700 hover:text-blue-600">
-              Home
-            </Link>
-            <Link to="/jobs" className="block text-gray-700 hover:text-blue-600">
-              Jobs
-            </Link>
-            <Link to="/about" className="block text-gray-700 hover:text-blue-600">
-              About
-            </Link>
-            <Link to="/contact" className="block text-gray-700 hover:text-blue-600">
-              Contact
-            </Link>
-          </div>
-        </div>
-      )}
+      
+      
     </nav>
   );
 }
