@@ -59,26 +59,6 @@ The backend server should now be running at `http://localhost:5000`.
 In a new terminal window, start the frontend:
 ```bash
 npm run dev
+
 ```
-The app should now be accessible at `http://localhost:5173`.
 
-
-## Challenges Faced
-
-1. **Managing State in React**: Initially, expanding job details for each listing caused all listings to expand simultaneously. This was solved by using a unique identifier for each job and managing state independently.
-2. **API and Database Integration**: Not being familiar with API and Databases before, it was tough ensuring that MongoDB connected properly to the backend and carefully managing environment variables and thorough error handling.
-
-### How I Overcame Them
-Detailed testing and debugging helped me identify and solve issues, and breaking down problems into smaller parts made them easier to address.
-
----
-
-## Future Improvements
-
-Here are some potential improvements we plan to implement:
-- **Filters**: The filters part being incomplete can be developed into a proper system where users can browse through their desired jobs with just a click
-- **User Authentication**: Allow users to save job listings or apply directly from the platform.
-- **Real-Time Search**: Implement a real-time search function that filters job listings as the user types.
-- **Pagination**: For better performance and user experience, implement pagination to manage a large number of job listings.
-
---- 
