@@ -1,4 +1,4 @@
-# React + Vite
+# MERN APP
 
 ## Instructions
 Clone the repository and use the following commands. 
