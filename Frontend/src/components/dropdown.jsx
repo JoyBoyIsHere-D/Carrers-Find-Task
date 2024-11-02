@@ -10,6 +10,7 @@ function Dropdown({ label, options }) {
     const [isOpenCompany, setIsOpenCompany] = useState(false);
     const [selectedOption, setSelectedOption] = useState('');
 
+
     const toggleDropdown1 = () => {
         setisOpenLocation(!isOpenLocation);
     };
@@ -23,10 +24,7 @@ function Dropdown({ label, options }) {
         setIsOpenCompany(!isOpenCompany);
     };
 
-    const handleOptionClick = (option) => {
-        setSelectedOption(option);
-        setisOpenLocation(false); // Close dropdown after selection
-    };
+
 
     return (
         <div className="relative flex-col  text-left w-full max-w-s">
@@ -54,7 +52,7 @@ function Dropdown({ label, options }) {
                             <path d="M17.9998 15C17.9998 15 13.5809 9.00001 11.9998 9C10.4187 8.99999 5.99985 15 5.99985 15" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
                         </svg>
                     </button>
-                    <SearchBar placeholder="Location"></SearchBar>
+                    <SearchBar  placeholder="Location"></SearchBar>
                     <div class="flex items-center space-x-2 ml-2">
                         <input
                             type="checkbox"
@@ -92,7 +90,7 @@ function Dropdown({ label, options }) {
                             <path d="M17.9998 15C17.9998 15 13.5809 9.00001 11.9998 9C10.4187 8.99999 5.99985 15 5.99985 15" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
                         </svg>
                     </button>
-                    <SearchBar placeholder="Location"></SearchBar>
+                    <SearchBar  placeholder="Location"></SearchBar>
                 </div></>}
             {/* Experience */}
             {!isOpenExperience && <button

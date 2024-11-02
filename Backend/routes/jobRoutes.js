@@ -7,9 +7,10 @@ const router = express.Router();
 router.get('/jobs', async (req, res) => {
   try {
     const jobs = await Job.find();
+    console.log("Jobs fetched:", jobs)
     res.status(200).json(jobs);
   } catch (error) {
-    res.status(500).json({ error: "Failed to fetch jobs" });
+    res.status(500).json({ error: error.message });
   }
 });
 
